@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://roberttorfason.github.io/blog/election/data-science/machine-learning/2021/09/22/kosningaprof.html</loc>
+<lastmod>2021-09-22T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://roberttorfason.github.io/blog/markdown/2021/09/22/test-markdown-post.html</loc>
 <lastmod>2021-09-22T00:00:00-05:00</lastmod>
 </url>
